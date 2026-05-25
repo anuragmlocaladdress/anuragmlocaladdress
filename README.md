@@ -19,7 +19,7 @@
 
 ```yaml
 Name      : Anurag Mishra
-Role      : Network Implementation Engineer | Solution Architect
+Role      : Solution Architect — IT & Security
 Location  : Hyderabad, India
 Experience: 6 Years Production Deployments
 Pursuing  : CISSP Certification
