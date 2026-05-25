@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:0F6E56&height=200&section=header&text=Anurag%20Mishra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Network%20Implementation%20Engineer%20|%20Solution%20Architect&descAlignY=55&descColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:0F6E56&height=200&section=header&text=Anurag%20Mishra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Solution%20Architect%20IT%20%26%20Security&descAlignY=55&descColor=ffffff)
 
 </div>
 
