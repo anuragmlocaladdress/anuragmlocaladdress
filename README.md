@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:0F6E56&height=200&section=header&text=Anurag%20Mishra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Solution%20Architect%20%7C%20IT%20%26%20Security&descAlignY=55&descColor=ffffff)
+![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=185FA5&center=true&vCenter=true&width=800&lines=Anurag+Mishra;Solution+Architect+%7C+IT+%26+Security;6+Years+Production+Experience)
 
 </div>
 
@@ -222,6 +222,6 @@ Pursuing  : CISSP Certification
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:185FA5&height=100&section=footer)
+
 
 </div>
