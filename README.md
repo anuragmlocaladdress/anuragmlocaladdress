@@ -124,13 +124,40 @@ Pursuing  : CISSP Certification
 
 ## 📂 My Repositories
 
-<div align="center">
-
-[![cisco-catalyst-runbooks](https://github-readme-stats.vercel.app/api/pin/?username=anuragmlocaladdress&repo=cisco-catalyst-runbooks&theme=tokyonight&hide_border=true)](https://github.com/anuragmlocaladdress/cisco-catalyst-runbooks)
-[![Cisco-ISE-Two-Node-Deployment](https://github-readme-stats.vercel.app/api/pin/?username=anuragmlocaladdress&repo=Cisco-ISE-Two-Node-Deployment&theme=tokyonight&hide_border=true)](https://github.com/anuragmlocaladdress/Cisco-ISE-Two-Node-Deployment)
-[![Aruba-VSX-SVI-OSPF-TIER_3-DHCP-STP-Cisco9500](https://github-readme-stats.vercel.app/api/pin/?username=anuragmlocaladdress&repo=Aruba-VSX-SVI-OSPF-TIER_3-DHCP-STP-Cisco9500&theme=tokyonight&hide_border=true)](https://github.com/anuragmlocaladdress/Aruba-VSX-SVI-OSPF-TIER_3-DHCP-STP-Cisco9500)
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/anuragmlocaladdress/cisco-catalyst-runbooks">
+        <img src="https://img.shields.io/badge/cisco--catalyst--runbooks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <sub><b>C9500 SVL IOS-XE Upgrade + ROMMON Recovery</b><br/>Production upgrade runbook with full recovery procedure</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/anuragmlocaladdress/Cisco-ISE-Two-Node-Deployment">
+        <img src="https://img.shields.io/badge/Cisco--ISE--Two--Node--Deployment-0F6E56?style=for-the-badge&logo=cisco&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <sub><b>ISE 3.4 Two-Node HA Deployment</b><br/>Full deployment with External Root CA certificate</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/anuragmlocaladdress/Aruba-VSX-SVI-OSPF-TIER_3-DHCP-STP-Cisco9500">
+        <img src="https://img.shields.io/badge/Aruba--VSX--SVI--OSPF--DHCP--STP-FF8300?style=for-the-badge&logo=hp&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <sub><b>Aruba VSX Multi-Tier Campus Lab</b><br/>VSX + OSPF + Centralized & Local DHCP + Snooping + STP</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/anuragmlocaladdress">
+        <img src="https://img.shields.io/badge/More%20Coming%20Soon-333333?style=for-the-badge&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <sub><b>Coming Next</b><br/>ISE 802.1X BYOD • FTD/FMC VPN • Ansible Playbooks</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
