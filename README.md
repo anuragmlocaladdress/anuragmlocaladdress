@@ -252,6 +252,5 @@ Pursuing  : CISSP Certification
 
 <div align="center">
 
-*Next time you add a new repo — just add one more card block in the Repositories section above*
 
 </div>
