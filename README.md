@@ -124,10 +124,13 @@ Pursuing  : CISSP Certification
 
 ## 📂 My Repositories
 
-| Repository | Description |
-|---|---|
-| [cisco-catalyst-runbooks](https://github.com/anuragmlocaladdress/cisco-catalyst-runbooks) | C9500 SVL IOS-XE upgrade + ROMMON recovery — production runbook |
-| [Cisco-ISE-Two-Node-Deployment](https://github.com/anuragmlocaladdress/Cisco-ISE-Two-Node-Deployment) | ISE 3.4 two-node deployment with External Root CA certificate |
+<div align="center">
+
+[![cisco-catalyst-runbooks](https://github-readme-stats.vercel.app/api/pin/?username=anuragmlocaladdress&repo=cisco-catalyst-runbooks&theme=tokyonight&hide_border=true)](https://github.com/anuragmlocaladdress/cisco-catalyst-runbooks)
+[![Cisco-ISE-Two-Node-Deployment](https://github-readme-stats.vercel.app/api/pin/?username=anuragmlocaladdress&repo=Cisco-ISE-Two-Node-Deployment&theme=tokyonight&hide_border=true)](https://github.com/anuragmlocaladdress/Cisco-ISE-Two-Node-Deployment)
+[![Aruba-VSX-SVI-OSPF-TIER_3-DHCP-STP-Cisco9500](https://github-readme-stats.vercel.app/api/pin/?username=anuragmlocaladdress&repo=Aruba-VSX-SVI-OSPF-TIER_3-DHCP-STP-Cisco9500&theme=tokyonight&hide_border=true)](https://github.com/anuragmlocaladdress/Aruba-VSX-SVI-OSPF-TIER_3-DHCP-STP-Cisco9500)
+
+</div>
 
 ---
 
@@ -222,6 +225,6 @@ Pursuing  : CISSP Certification
 
 <div align="center">
 
-
+*Next time you add a new repo — just add one more card block in the Repositories section above*
 
 </div>
